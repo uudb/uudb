@@ -12,7 +12,7 @@ package com.study;
 public class git {
 
 	public void test(){
-		System.out.println(00);
+		System.out.println(000);
 	}
 }
   
