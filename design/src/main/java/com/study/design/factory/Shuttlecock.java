@@ -9,4 +9,9 @@ package com.study.design.factory;
  * Description:(这里用一句话描述这个类的作用)
  */
 public class Shuttlecock implements Sports {
+
+    @Override
+    public void play() {
+        System.out.println("play shuttlecock");
+    }
 }

@@ -9,4 +9,6 @@ package com.study.design.factory;
  * Description:(这里用一句话描述这个类的作用)
  */
 public interface Sports {
+
+    void play();
 }
